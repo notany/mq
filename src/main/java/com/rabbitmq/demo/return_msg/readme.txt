@@ -1,0 +1,2 @@
+ReturnListener用来处理消息未投递成功的，没有路由到队列的消息
+生产端设置mandatory为true，则监听器会接收到路由不可达的消息， 然后进行处理，如果设置为false，那么broker端自动删除该消息

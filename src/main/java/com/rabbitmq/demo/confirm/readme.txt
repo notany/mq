@@ -1,0 +1,1 @@
+rabbitmq消息确认机制，confirm,这个是保证投递到rabbitmq服务器,但是如果网络影响也有可能有问题
