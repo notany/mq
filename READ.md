@@ -16,3 +16,4 @@ git push --force
 这样git提交记录也删了
 
 现在提交也需要验证token 好费劲
+git remote set-url origin https://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@github.com/notany/mq.git
