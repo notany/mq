@@ -14,3 +14,5 @@ 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
 git reset ...
 git push --force
 这样git提交记录也删了
+
+现在提交也需要验证token 好费劲
